@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: Inter, sans-serif;
+  font-family: 'Inter',Arial, Helvetica, sans-serif;
   font-size: 22px;
   font-weight: normal; 
   }
@@ -14,20 +14,16 @@
     padding-right:20%;
     padding-top: 1%;
     font-weight: normal;
-    font-family: Inter, sans-serif;
+    font-family: 'Inter',Arial, Helvetica, sans-serif;
     font-size: 16px;
   }
-  .Heading{
-  align-items:  center;
-  font-family: Inter, sans-serif;
-  font-weight: normal;
-  
-  }
+
   
   .heading{
     text-align: center;
     font-family: Inter, sans-serif;
     font-weight: normal;
+    font-family: 'Inter',Arial, Helvetica, sans-serif;
   }
   
 
