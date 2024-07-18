@@ -1,0 +1,93 @@
+
+  .header-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+
+  }
+  
+  .top-section {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 17px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .logo {
+    width: 44px;
+    height: 30px;
+    margin-left: 50px;
+  }
+  
+  .nav-list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+  }
+  
+  .nav-list li {
+    margin-right: 60px;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: #000;
+    font-size: 24px;
+  }
+  
+  .nav-list a:hover {
+    color: #CBDEEC;
+  }
+  
+  .subscribe-button {
+  
+    background-color: transparent;
+    border: 3px solid #333;
+    color: #333;
+    padding: 15px;
+    cursor: pointer;
+  }
+  
+  .subscribe-button:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+  
+  .title-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-weight: normal;
+  }
+  
+  .title-container h1 {
+    font-size: 112px;
+    font-weight: normal;
+    margin-bottom: 10px;
+  }
+  
+  .title-container p {
+    font-size: 40px;
+    color: black;
+    font-weight: normal;
+  }
+   .card-text {
+    font-size:40px;
+    color: #666;
+    line-height: 1px;
+    text-align: center;
+  }
+  
