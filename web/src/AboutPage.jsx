@@ -1,7 +1,7 @@
 import React from 'react';
 import './AboutPage.css'; 
 
-function AboutPage() {
+const AboutPage = ()=> {
   return (
     <div className="container">
       <div className="image-container">
