@@ -3,7 +3,8 @@ import "./Footer.css";
 
 
 
-function Footer() {
+
+const Subscribe = () => {
   return (
     <div>
       <footer className="footer">

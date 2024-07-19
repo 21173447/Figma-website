@@ -1,7 +1,8 @@
 import React from 'react';
 import "./Subscribe.css"
 
-function Subscribe() {
+
+const Subscribe = () => {
   return (
     <div className="subscribe-container">
       <h1 className="subscribe-title">SUBSCRIBE</h1>
