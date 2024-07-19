@@ -4,7 +4,7 @@ import "./Footer.css";
 
 
 
-const Subscribe = () => {
+const Footer = () => {
   return (
     <div>
       <footer className="footer">
